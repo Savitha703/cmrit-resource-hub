@@ -33,12 +33,18 @@ student-resource-app/
 │ └── login.html
 └── database.db (generated at runtime)
 ---
+## 📸 Screenshot
+![Homepage Screenshot](eenshot.png)
+---
+
+
+
+---
 ## 🧪 Demo Credentials
 Username: admin
 Password: 1234
 ---
 ## 📸 Screenshot
-> Add a screenshot of your homepage here (see below)
 ![Homepage Screenshot](Screenshot.png)
 ---
 
