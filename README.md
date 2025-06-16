@@ -39,7 +39,7 @@ Password: 1234
 ---
 ## 📸 Screenshot
 > Add a screenshot of your homepage here (see below)
-![Homepage Screenshot](screenshot.png)
+![Homepage Screenshot](Screenshot.png)
 ---
 
 ## 🚀 How to Run Locally
