@@ -34,7 +34,7 @@ student-resource-app/
 └── database.db (generated at runtime)
 ---
 ## 📸 Screenshot
-![Homepage Screenshot](eenshot.png)
+![Homepage Screenshot](structure.png)
 ---
 
 
